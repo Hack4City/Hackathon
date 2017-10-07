@@ -1,5 +1,5 @@
 # Hackathon
 Urban Transport
 
-- [testTeam](github.com/testTeam/repo) 
-- [orcaTeam](github.com/team-orca)
+- [testTeam](https://github.com/testTeam/repo) 
+- [orcaTeam](https://github.com/team-orca)
