@@ -9,4 +9,4 @@ Hack4city is an event where all of the problems in out life, from public transpo
 - [Jetgiller](https://github.com/ilaydacansinkoc/Hack4City-jetgiller-final)
 - [V4City](https://github.com/OnurVar/V4City)
 - [Carrots](https://github.com/edencakir/Hack4City) :carrot:
-- [TheNeigborHood](github.com:kaanki/FaceRecognise.git)
+- [TheNeigborHood](https://github.com:kaanki/FaceRecognise.git)
